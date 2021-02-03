@@ -1,6 +1,6 @@
 # Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/datasets.svg?color=blue) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/datasets.svg)](https://github.com/benedekrozemberczki/datasets/archive/master.zip)
 
-Datasets collected for network science, deep learning and general machine learning research.
+Spatio-temporal datasets collected for network science, deep learning and general machine learning research.
 
 <p align="center">
   <img width="600" src="/images/field.png">
