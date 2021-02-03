@@ -49,7 +49,7 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
 - **Temporal:** Yes.
 
 
-|   | **Twitch Gamers**  |
+|   | **Hungarian Counties**  |
 |---|---|
 | **Nodes** |20   |
 | **Edges** |61 |
