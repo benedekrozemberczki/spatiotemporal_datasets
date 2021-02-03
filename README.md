@@ -3,7 +3,7 @@
 Spatio-temporal datasets collected for network science, deep learning and general machine learning research.
 
 <p align="center">
-  <img width="600" src="https://github.com/benedekrozemberczki/datasets/blob/master/images/field.png>
+  <img width="600" src="https://github.com/benedekrozemberczki/datasets/blob/master/images/field.png">
 </p>
 
 
