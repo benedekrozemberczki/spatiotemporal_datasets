@@ -8,20 +8,6 @@ Spatio-temporal datasets collected for network science, deep learning and genera
 
 ##### Contents   
 1. [Chickenpox Cases in Hungary](#chickenpox-cases-in-hungary)
-2. [Twitch Gamers](#twitch-gamers)
-3. [LastFM Asia Social Network](#lastfm-asia-social-network)
-4. [Deezer Europe Social Network](#deezer-europe-social-network)
-5. [GitHub StarGazer Graphs](#github-stargazer-graphs)
-6. [Twitch Ego Nets](#twitch-ego-nets)
-7. [Reddit Thread Graphs](#reddit-thread-graphs)  
-8. [Deezer Ego Nets](#deezer-ego-nets)
-9. [GitHub Social Network](#github-social-network)
-10. [Deezer Social Networks](#deezer-social-networks)
-11. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-12. [Wikipedia Article Networks](#wikipedia-article-networks)
-13. [Twitch Social Networks](#twitch-social-networks)
-14. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
-
 
 ## Chickenpox Cases in Hungary
 <p align="center">
