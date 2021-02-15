@@ -1,4 +1,4 @@
-# Spatiotemporal Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/spatio_temporal_datasets.svg?color=blue) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/spatio_temporal_datasets.svg)](https://github.com/benedekrozemberczki/spatio_temporal_datasets/archive/master.zip)
+# Spatiotemporal Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/spatiotemporal_datasets.svg?color=blue) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/spatiotemporal_datasets.svg)](https://github.com/benedekrozemberczki/spatiotemporal_datasets/archive/master.zip)
 
 Spatio-temporal datasets collected for network science, deep learning and general machine learning research.
 
