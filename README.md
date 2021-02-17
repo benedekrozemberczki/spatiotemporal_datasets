@@ -49,12 +49,12 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
 
 ### Citing
 ```bibtex
->@misc{rozemberczki2021twitch,
-       title = {Twitch Gamers: a Dataset for Evaluating Proximity Preserving and Structural Role-based Node Embeddings}, 
-       author = {Benedek Rozemberczki and Rik Sarkar},
-       year = {2021},
-       eprint = {2101.03091},
-       archivePrefix = {arXiv},
-       primaryClass = {cs.SI}
-       }
+@misc{rozemberczki2021chickenpox,
+      title={Chickenpox Cases in Hungary: a Benchmark Dataset for Spatiotemporal Signal Processing with Graph Neural Networks}, 
+      author={Benedek Rozemberczki and Paul Scherer and Oliver Kiss and Rik Sarkar and Tamas Ferenci},
+      year={2021},
+      eprint={2102.08100},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
+}
 ```
