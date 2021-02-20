@@ -55,6 +55,6 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
       year={2021},
       eprint={2102.08100},
       archivePrefix={arXiv},
-      primaryClass={cs.SI}
+      primaryClass={cs.LG}
 }
 ```
