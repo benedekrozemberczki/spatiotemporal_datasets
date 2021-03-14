@@ -75,8 +75,8 @@ A spatio-temporal dataset of weekly PedalMe bicycle deliveries in London. The da
 ### Links
 
 
-- [PedalMe London Bicycle Deliveries Edges](https://graphmining.ai/temporal_datasets/hungary_county_edges.csv)
-- [PedalMe London Bicycle Deliveries Time Series](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
+- [PedalMe London Bicycle Deliveries Edges](https://graphmining.ai/temporal_datasets/pedalme_edges.csv)
+- [PedalMe London Bicycle Deliveries Time Series](https://graphmining.ai/temporal_datasets/pedalme_features.csv)
 
 ### Properties
 
