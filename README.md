@@ -62,7 +62,7 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
 
 ## PedalMe London Bicycle Deliveries
 <p align="center">
-  <img width="200" src="https://i.dailymail.co.uk/1s/2019/12/02/15/21714336-0-image-a-43_1575299652093.jpg">
+  <img width="600" src="https://i.dailymail.co.uk/1s/2019/12/02/15/21714336-0-image-a-43_1575299652093.jpg">
 </p>
 
 ### Description
