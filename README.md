@@ -96,12 +96,12 @@ A spatio-temporal dataset of weekly PedalMe bicycle deliveries in London. The da
 
 ### Citing
 ```bibtex
-@misc{rozemberczki2021chickenpox,
-      title={{Chickenpox Cases in Hungary: a Benchmark Dataset for Spatiotemporal Signal Processing with Graph Neural Networks}}, 
-      author={Benedek Rozemberczki and Paul Scherer and Oliver Kiss and Rik Sarkar and Tamas Ferenci},
-      year={2021},
-      eprint={2102.08100},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@misc{pytorch_geometric_temporal,
+      author = {Benedek, Rozemberczki and Paul, Scherer and Nicolas, Collignon},
+      title = {{PyTorch Geometric Temporal}},
+      year = {2020},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/benedekrozemberczki/pytorch_geometric_temporal}},
 }
 ```
