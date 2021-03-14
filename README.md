@@ -75,8 +75,8 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
 ### Links
 
 
-- [Chickenpox Cases in Hungary Edges](https://graphmining.ai/temporal_datasets/hungary_county_edges.csv)
-- [Chickenpox Cases in Hungary Time Series](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
+- [PedalMe London Bicycle Deliveries Edges](https://graphmining.ai/temporal_datasets/hungary_county_edges.csv)
+- [PedalMe London Bicycle Deliveries Time Series](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
 
 ### Properties
 
