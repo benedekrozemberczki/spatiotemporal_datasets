@@ -67,7 +67,7 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
 
 ### Description
 <p align="justify">
-A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hungary. The dataset consists of a county-level adjacency matrix and time series of the county-level reported cases between 2005 and 2015. There are 2 specific related tasks:</p>
+A spatio-temporal dataset of weekly PedalMe bicycle deliveries in London. The dataset consists of a proximity based weighted adjacency matrix and time series of the weekly demands in 2020 and 2021. There are 2 specific related tasks:</p>
 
 - Locality level demand prediction.
 - London level demand prediction.
