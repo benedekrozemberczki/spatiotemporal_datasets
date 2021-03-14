@@ -85,12 +85,10 @@ A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hu
 - **Temporal:** Yes.
 
 
-|   | **Hungarian Counties**  |
+|   | **London Regions**  |
 |---|---|
-| **Nodes** |20   |
-| **Edges** |61 |
-| **Density** |  0.3211 |
-| **Transitvity** | 0.4134|
+| **Nodes** |15   |
+| **Edges** |225 |
 
 ### Possible tasks
 
