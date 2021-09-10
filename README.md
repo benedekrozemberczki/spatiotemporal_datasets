@@ -99,13 +99,11 @@ A spatio-temporal dataset of weekly PedalMe bicycle deliveries in London. The da
 
 ### Citing
 ```bibtex
-@misc{pytorch_geometric_temporal,
-      author = {Benedek, Rozemberczki and Paul, Scherer and Nicolas, Collignon},
-      title = {{PyTorch Geometric Temporal}},
-      year = {2020},
-      publisher = {GitHub},
-      journal = {GitHub repository},
-      howpublished = {\url{https://github.com/benedekrozemberczki/pytorch_geometric_temporal}},
+@inproceedings{rozemberczki2021pytorch,
+               author = {Benedek Rozemberczki and Paul Scherer and Yixuan He and George Panagopoulos and Alexander Riedel and Maria Astefanoaei and Oliver Kiss and Ferenc Beres and Guzman Lopez and Nicolas Collignon and Rik Sarkar},
+               title = {{PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models}},
+               year = {2021},
+               booktitle={Proceedings of the 30th ACM International Conference on Information and Knowledge Management},
 }
 ```
 
